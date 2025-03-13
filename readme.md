@@ -16,7 +16,7 @@ To get started with the project, follow these steps:
    ```bash
    cd Handicraft-forgery-prediction
    ```
-3. Install the required dependencies:
+3. Install the required dependencies for backend and start:
 
 ```bash
     cd server
@@ -27,9 +27,19 @@ To get started with the project, follow these steps:
 ```
 
 ```bash
+   python3 app.py
+```
+
+4. Install the required dependencies for frontend and start:
+
+```bash
     cd frontend
 ```
 
 ```bash
     npm install
+```
+
+```bash
+    npm run dev
 ```

@@ -136,7 +136,7 @@ const App = () => {
             alt="Logo"
             className="animated-logo"
             style={{
-              maxWidth: "350px", // Adjust size as needed
+              maxWidth: "350px",
               height: "auto",
               marginBottom: "-1rem",
             }}
